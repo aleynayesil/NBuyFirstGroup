@@ -1,6 +1,6 @@
-domain katmaný en az deðiþen katman iþin yapýlýþ þekli deðiþtiðinde deðiþir teknolojinin en az barýnacaðý yer bu katmanda sadece nesnesin state ile davranýþý ile ilgili iþleri bu katmanda ilgiler-niriz.domain baðýmsýz tüm katmanlardn iþ kurallarý bu katmanda 
+domain katmaný en az deðiþen katman iþin yapýlýþ þekli deðiþtiðinde deðiþir teknolojinin en az barýnacaðý yer bu katmanda sadece nesnesin state ile davranýþý ile ilgili iþleri bu katmanda ilgiler-niriz.domain baðýmsýz tüm katmanlardn iþ kurallarý bu katmanda örn bu uygulamaya 5 contributor eklenebilir 
 
-application katmaný domain katmanýndaki iþ kurallarýna göre iþ isteklerinin domain katmanýna yollar.sertifika güncelleme ,geminin yurtdýþýnda karasularýnde gezebime kurallarý vb. kullanýmd urumlarý.tüm iþ istekleri bu katmandan gelir iþ istekleri deðiþmediði sürede bu katmandaki teknoloji deðiþmez.hatalama iþlemleri için validation kütüphaneleri gibi kütüphaneler kullanýlýr.validasyon kontrol yapar repository controller
+application katmaný domain katmanýndaki iþ kurallarýna göre iþ isteklerinin domain katmanýna yollar.sertifika güncelleme ,geminin yurtdýþýnda karasularýnde gezebime kurallarý vb. kullanýmd urumlarý.tüm iþ istekleri bu katmandan gelir iþ istekleri deðiþmediði sürede bu katmandaki teknoloji deðiþmez.hatalama iþlemleri için validation kütüphaneleri gibi kütüphaneler kullanýlýr.validasyon kontrol yapar repository controller iþ isteklerini yönetir
 
 presentation katmanýna gelen isteklerle kullanýcýya response döndüren view gösteriyoruz süreç buradn baþlar.controllera düþer uygulamaya ait /home/ýndex tek görevi isteði viewe yonlendirmek
 

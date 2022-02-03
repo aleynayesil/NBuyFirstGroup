@@ -14,6 +14,7 @@ namespace NBuyFirstGroup.Core.logging
         public const string Success = "Success";
     }
     //yapılan işlemlere ait kayıtları izleyebilmek için bu servisin log metodunu kullanacağız mesaj ve loglama kritikli seviyesi
+    //hangi operasyonda ne yaptık görebilmek için
     public interface ILogService
     {
         void Log(string message, string logLevel);

@@ -8,6 +8,8 @@ namespace NBuyFirstGroup.Core.domain
 {
     //kampanya gibi işlemlerde 
     //gerçekleşecek olay ile ilgili bir interface tanımladım entity içerisinde bir değişim state değerinde bir değişim sonucu bu event başka bir entity e haber verecek örn fiyat değiştiğinde bu ürünü favlamış olan kullanıcılara e posta göndermeliyim.sisteme makale girildiğinde takip edilen yazarın son makalesini eposta olarak alma
+
+    //task durumu değiştiğinde yani entity state değiştiğinde ya da hata durumunda.bir işin tarihi dolduğunda event kullanılır.
     public interface IDomainEvent
     {
 

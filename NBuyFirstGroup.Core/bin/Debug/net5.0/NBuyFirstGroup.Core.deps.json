@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NBuyFirstGroup.Core/1.0.0": {
+        "runtime": {
+          "NBuyFirstGroup.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NBuyFirstGroup.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

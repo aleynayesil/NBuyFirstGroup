@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroupBlog\\NBuyFirstGroup.Core\\NBuyFirstGroup.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroup\\NBuyFirstGroup.Core\\NBuyFirstGroup.Core.csproj",
       "projectName": "NBuyFirstGroup.Core",
-      "projectPath": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroupBlog\\NBuyFirstGroup.Core\\NBuyFirstGroup.Core.csproj",
+      "projectPath": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroup\\NBuyFirstGroup.Core\\NBuyFirstGroup.Core.csproj",
       "packagesPath": "C:\\Users\\Web ve Mobil Prog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroupBlog\\NBuyFirstGroup.Core\\obj\\",
+      "outputPath": "C:\\Users\\Web ve Mobil Prog\\source\\repos\\NBuyFirstGroup\\NBuyFirstGroup.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Web ve Mobil Prog\\AppData\\Roaming\\NuGet\\NuGet.Config",
